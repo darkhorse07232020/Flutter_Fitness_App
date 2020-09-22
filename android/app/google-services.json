@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24972070966",
+    "firebase_url": "https://bravefit-prototype.firebaseio.com",
+    "project_id": "bravefit-prototype",
+    "storage_bucket": "bravefit-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24972070966:android:8d3b1018ce404ee14ec897",
+        "android_client_info": {
+          "package_name": "com.sophie.bravefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24972070966-acqkrh8lvc9v2cenq22qj8at0jj0dl78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvEgTdGDsOiXuI0NNfi-QDlY16LIl58P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24972070966-acqkrh8lvc9v2cenq22qj8at0jj0dl78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

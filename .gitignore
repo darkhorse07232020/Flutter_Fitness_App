@@ -1,0 +1,14 @@
+ios/Flutter/flutter_assets/kernel_blob.bin
+.packages
+.flutter-plugins
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Runner.xcworkspace/xcuserdata
+build/
+build/ios/
+ios/Pods
+ios/.symlinks
+Podfile.lock
+android/.gradle
+.dart_tool/
+.idea/
